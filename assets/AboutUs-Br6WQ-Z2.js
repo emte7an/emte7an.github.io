@@ -1,0 +1,1 @@
+import{j as t}from"./index-B5GdHKvb.js";const s=()=>t.jsxs("div",{className:"container mx-auto p-4 flex-grow",children:[t.jsx("h1",{className:"text-3xl font-bold text-center mb-6",children:"About Us"}),t.jsx("p",{className:"text-lg text-center",children:"This is the about us page."})]});export{s as default};
